@@ -1,8 +1,9 @@
 # flight_fare_pred
 
-Screenshot of how the website looks like
+Screenshot of how the website looks like:
 
-![Screenshot 2023-09-03 114921](https://github.com/anuj1506/flight_fare_pred/assets/67199995/feba71a3-7768-4a86-be97-f2c99e1e77e3)
+![Screenshot flight_res](https://github.com/anuj1506/flight_fare_pred/assets/67199995/7b30ce76-299a-4707-8bc1-6767e65f7fc1)
+
 
 Bi Visualization of KPIs: 
 
